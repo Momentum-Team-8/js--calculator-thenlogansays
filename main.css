@@ -1,0 +1,35 @@
+
+.buttons{
+    height: 925px;
+    width: 475px;
+    display: flex;
+    flex-wrap: wrap;
+    border: solid 2px blue;
+
+}
+
+
+.input{
+    height: 125px;
+    width: 125px;
+    display: flex;
+    flex-wrap: wrap;
+    color: honeydew;
+    background-color: green;
+    font-size: 48px;
+    border: 1px solid purple;
+    margin: 5px;
+    padding: 5px;
+    justify-content: center;
+    justify-items:center;
+    align-items: center;
+}
+
+.screen{
+    display: flex;
+    height: 125px;
+    width: 475px;
+    background-color: lightgreen;
+    font-size: 48px;
+    justify-items: flex-end;
+}
